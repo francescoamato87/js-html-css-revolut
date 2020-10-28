@@ -12,12 +12,16 @@
 }
 
 .container{
-  padding: 20px 0;
+  padding: 10px 5px;
 }
 .head-menu{
   width: 100%;
   padding: 10px;
   display: flex;
+  }
+
+.head-menu li a{
+  color: #FF007F;
 }
 
 .menu-left{
@@ -54,8 +58,21 @@
   transform: translateX(-50%);
   background-color: #F5F5F5;
   display: none;
+  padding: 15px;
 }
 
+.dropdown-menu > li > a{
+  font-size: 12px;
+}
+
+.btn{
+  padding: 15px;
+  border-radius: 25px;
+  border: none;
+  background: #FF007F;
+  color: #fff;
+
+}
 
 /* ACTIVE */
 

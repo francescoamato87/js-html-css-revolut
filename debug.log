@@ -1,1 +1,4 @@
 [1028/102251.967:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[1028/171011.993:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\franc\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\113a37a1-a778-4653-84a9-d198dc8a53b4: Impossibile trovare il percorso specificato. (0x3)
+[1028/171011.993:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\franc\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\674779e0-515d-4d75-a6e5-a01819069d08: Impossibile trovare il percorso specificato. (0x3)
+[1028/171011.993:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)

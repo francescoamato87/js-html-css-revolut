@@ -15,7 +15,7 @@ dropLinks.click( function() {
 
   dropMenu.not(actualMenu).hide();
 
-  actualMenu.toggle();
+  actualMenu.toggle(1000);
 
 
     });
